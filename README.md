@@ -5,7 +5,8 @@ Fire emergencies pose significant risks, necessitating rapid and accurate detect
  
 The centralized system analyses data from smoke, heat, CO2, and other environmental factors, enabling faster and more informed decision-making during fire emergencies. A key feature of FireSense is the integration of a GSM module, which allows for automatic alerts to emergency services, significantly reducing response times.
  
-Data Flow Diagram:![WhatsApp Image 2024-08-01 at 18 09 03](https://github.com/user-attachments/assets/34fc31c6-106f-4d17-a0dd-7f49c939bf86)
+Data Flow Diagram:
+![WhatsApp Image 2024-08-01 at 18 09 03](https://github.com/user-attachments/assets/34fc31c6-106f-4d17-a0dd-7f49c939bf86)
 
 
  
