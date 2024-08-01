@@ -22,7 +22,10 @@ Our methodology includes a multi-sensor approach to capture a comprehensive rang
  
 FireSense's multi-sensor integration, distributed intelligence, open-source dashboard, automated emergency response, and cost-effective scalability make it a unique and valuable solution for enhancing fire detection accuracy, response times, and overall safety in residential and commercial settings.
 
-(https://github.com/user-attachments/assets/https://d3i71xaburhd42.cloudfront.net/533b37ed5822d4aff8843ec78626571b6f737506/2-Figure1-1.png)
+
+![2-Figure1-1](https://github.com/user-attachments/assets/0850d462-8bcc-409b-b178-21700bcc046b)
+
+
  
 By Student of UPES:
 Piyush Kumar,
