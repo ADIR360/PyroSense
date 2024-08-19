@@ -1,4 +1,4 @@
-# FireSense
+# PyroSense(Formerly FireSense)
 Development of an Integrated IoT-Based System for Enhanced Fire Detection and Decision-Making Using Multi-Sensor Data Analysis (Smoke, Heat, CO2)
  
 Fire emergencies pose significant risks, necessitating rapid and accurate detection for effective response. FireSense aims to revolutionize fire safety through an innovative IoT-based solution. This project integrates multiple sensors (MQ2 for smoke, MQ135 for air quality/CO2, DHT11 for temperature and humidity, and IR for heat) into each room, controlled by ESP8266 modules. These sensors form a network of intelligent nodes that continuously monitor environmental conditions and transmit real-time data to a central Raspberry Pi 3B running Home Assistant.
